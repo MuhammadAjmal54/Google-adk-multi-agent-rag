@@ -1,0 +1,4 @@
+google-adk[extensions]
+chromadb
+ollama
+litellm>=1.75.5
